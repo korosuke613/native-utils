@@ -1,4 +1,4 @@
-package cz.adamh.utils;
+package com.github.korosuke613.cz.adamh.utils;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

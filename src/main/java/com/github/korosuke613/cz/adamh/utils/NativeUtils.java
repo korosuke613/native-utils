@@ -21,7 +21,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
-package cz.adamh.utils;
+package com.github.korosuke613.cz.adamh.utils;
 
 import java.io.*;
 import java.nio.file.FileSystemNotFoundException;
